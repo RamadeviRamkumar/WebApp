@@ -1,0 +1,13 @@
+
+.qr-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; 
+  }
+  
+  .qr-image {
+    max-width: 100%; 
+    max-height: 100%; 
+  }
+  

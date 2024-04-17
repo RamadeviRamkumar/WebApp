@@ -4,11 +4,25 @@
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@yudiel/react-qr-scanner": "^2.0.0-beta.3",
+    "@zxing/library": "^0.20.0",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "jsqr": "^1.4.0",
+    "omidgfx-react-qr-scanner": "^0.0.11",
+    "pusher": "^5.2.0",
+    "pusher-js": "^8.4.0-rc2",
     "react": "^18.2.0",
+    "react-cookie": "^7.1.4",
     "react-dom": "^18.2.0",
+    "react-qr-code": "^2.0.12",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-qrcode-scanner": "^1.1.7",
+    "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1",
+    "reactstrap": "^9.2.2",
+    "socket.io-client": "^4.7.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +48,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^15.0.0",
+    "axios-mock-adapter": "^1.22.0",
+    "react-qr-scanner": "^1.0.0-alpha.11"
   }
 }
